@@ -29,8 +29,8 @@ To compute the van der Waals and/or induction energies in materials, the followi
 - Determince the optical polarizability of the system in imaginary frequency by copying the executive postw90_vdW-WanMBD.x to the current folder and excuting: ./postw90_vdW-WanMBD.x seedname. This will generate the following output files:'seedname'-polarizability_xx.dat, 'seedname'-polarizability_xy.dat, ..., 'seedname'-polarizability_zz.dat.    
 
 - Create a folder to execute vdW-WanMBD code and copy the following files to this folder
-- 
-    all 9 optical polarizability files 'seedname-polarizability_xx.dat', ..., 'seedname-polarizability_zz.dat'
+
+     all 9 optical polarizability files 'seedname-polarizability_xx.dat', ..., 'seedname-polarizability_zz.dat'
   
     'scf.out' and 'nscf.out' files from the DFT self-consistent calculations for the bulk layered system
   
