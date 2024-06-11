@@ -3,6 +3,7 @@ A Python code for calculating van der Waals and induction energies in materials 
 ----------------------------------------------------------------------------------------------------------------------------------
 
 This code is provided for the paper: "Dissecting van der Waals interactions with Density Functional Theory - Wannier-basis approach" 
+
                                      https://arxiv.org/abs/...
 
 Authors: Diem Thi-Xuan Dang, Dai-Nam Le, and Lilia Woods
@@ -26,7 +27,7 @@ To compute the van der Waals and/or induction energies in materials, the followi
 
 - Obtain the MLWFs for the system by interpolating the DFT application using wannier90.x
 
-- Determince the optical polarizability of the system in imaginary frequency by copying the executive postw90_vdW-WanMBD.x to the current folder and excuting: ./postw90_vdW-WanMBD.x seedname. This will generate the following output files:'seedname'-polarizability_xx.dat, 'seedname'-polarizability_xy.dat, ..., 'seedname'-polarizability_zz.dat.    
+- Determine the optical polarizability of the system in imaginary frequency by copying the executive postw90_vdW-WanMBD.x to the current folder and excuting: ./postw90_vdW-WanMBD.x seedname. This will generate the following output files:'seedname'-polarizability_xx.dat, 'seedname'-polarizability_xy.dat, ..., 'seedname'-polarizability_zz.dat.    
 
 - Create a folder to execute vdW-WanMBD code and copy the following files to this folder
 
