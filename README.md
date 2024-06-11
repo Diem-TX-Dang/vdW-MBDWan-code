@@ -50,9 +50,7 @@ To compute the van der Waals and/or induction energies in materials, the followi
 
 	gamma, the parameter in damping function (Eq. 10): gM = ...           Example: gM = 1 or gM = 1.31 in this study
 
-	for polar systems, such as hBN, MoS2: pol = 1.
-
-        for non-polar systems, such as graphite: pol = 0.
+	for polar systems, such as hBN, MoS2: pol = 1. For non-polar systems, such as graphite: pol = 0.
   
 	if calculating the binding energy: mono = 1. Otherwise: mono = 0
 	
