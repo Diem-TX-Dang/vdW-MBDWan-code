@@ -56,7 +56,8 @@ To compute the van der Waals and/or induction energies in materials, the followi
 	
 - Execute: python vdW-WanMBD.py > output.out
 
-- The generated output file 'output.out' includes the following information;
+- The generated output file 'output.out' includes the following information:
+  
 	the name of investigated system
 
         lattice constant along c axis in Å unit
