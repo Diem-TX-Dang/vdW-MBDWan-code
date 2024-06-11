@@ -43,6 +43,7 @@ To compute the van der Waals and/or induction energies in materials, the followi
 	'vdW-WanMBD.py' file from 'bin' folder
 		
 - In this folder, provide the following information into the input file 'input.in':
+  
     name of the investigating system: seedname = ...                      Example: seedname = MoS2
   
 	numbers of Wannier functions for each type of atoms: N_WF_at = ...    Example: N_WF_at = 5 4 for the case of MoS2 (5 Wannier functions for Mo and 4 Wannier Functions for S)
