@@ -2,13 +2,13 @@
 A Python code for calculating van der Waals and induction energies in materials using Wannier Functions
 ----------------------------------------------------------------------------------------------------------------------------------
 
-This code is provided for the paper: "Dissecting van der Waals interactions with Density Functional Theory - Wannier-basis approach" 
+This code is provided for the paper: "Dissecting van der Waals interactions with Density Functional Theory - Wannier-basis approach". 
 
                                      https://arxiv.org/abs/...
 
-Authors: Diem Thi-Xuan Dang, Dai-Nam Le, and Lilia Woods
+Authors: Diem Thi-Xuan Dang, Dai-Nam Le, and Lilia Woods.
 
-Address: Advanced Materials and Devices Theory Group, Department of Physics, University of South Florida, Tampa, FL, USA
+Address: Advanced Materials and Devices Theory Group, Department of Physics, University of South Florida, Tampa, FL, USA.
 
          https://www.amd-woods-group.com/
 	 
@@ -87,7 +87,7 @@ Dispersion and binding energies are included for three representative materials.
     
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-For assistance with running please email Diem Thi-Xuan Dang at dangt1@usf.edu 
+For assistance with running please email Diem Thi-Xuan Dang at dangt1@usf.edu or xuandiemdang@gmai.com (personal).
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
