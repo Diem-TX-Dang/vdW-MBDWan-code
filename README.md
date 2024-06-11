@@ -75,9 +75,13 @@ To compute the van der Waals and/or induction energies in materials, the followi
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 Examples:
+
      Dispersion and binding energies are included for three representative materials.
+     
      examples/graphite: calculation for AB-stacking graphite at interlayer distance 3.4162060 Å
+     
      examples/hBN     : calculation for AA'-stacking hBN     at interlayer distance 3.3086120 Å
+     
      examples/MoS2    : calculation for AA'-stacking 2H-MoS2 at interlayer distance 5.9922775 Å
     
 ----------------------------------------------------------------------------------------------------------------------------------------
