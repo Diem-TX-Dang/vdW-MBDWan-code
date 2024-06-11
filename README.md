@@ -58,19 +58,19 @@ To compute the van der Waals and/or induction energies in materials, the followi
 
 - The generated output file 'output.out' includes the following information:
   
-	the name of investigated system
+the name of investigated system
 
-  lattice constant along c axis in Å unit
+lattice constant along c axis in Å unit
   
-  interlayer distance in Å unit
+interlayer distance in Å unit
       
-  unit cell volume in Å^3 unit
+unit cell volume in Å^3 unit
   
-	vdW energy in eV unit
+vdW energy in eV unit
 
-	induction energy in eV unit (if 'pol = 0', induction energy is zero)
+induction energy in eV unit (if 'pol = 0', induction energy is zero)
 
-	binding energy in meV/atom unit (if 'mono = 0', this information is not publised)
+binding energy in meV/atom unit (if 'mono = 0', this information is not publised)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
