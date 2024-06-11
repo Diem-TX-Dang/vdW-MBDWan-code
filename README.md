@@ -87,7 +87,7 @@ Dispersion and binding energies are included for three representative materials.
     
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-For assistance with running please email Diem Thi-Xuan Dang at dangt1@usf.edu (work) or xuandiemdang@gmai.com (personal)
+For assistance with running please email Diem Thi-Xuan Dang at dangt1@usf.edu 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
