@@ -1,0 +1,32 @@
+#####################################################
+#################### vdW-WanMBD #####################
+###### Diem TX Dang, Dai-Nam Le and Lilia Woods #####
+######### University of South Florida, USA ##########
+#####################################################
+
+The investigating system: hBN
+Lattice constant along c axis (Angstrom): 6.617224
+Interlayer distance (Angstrom)          : 3.308612
+Unit cell volume (Angstrom^3)           : 35.67437
+
+#####################################################
+############## Dispersion energy (eV) ###############
+#####################################################
+1. Dipole-dipole interaction
+Many-body vdW energy: -0.051290031040875685
+2nd order vdW energy: -0.05025456625015511
+4th order vdW energy: -0.0009698649786802794
+6th order vdW energy: -5.8841785095825015e-05
+2. Charge-dipole interaction
+Induction energy    : -0.24067379788027612
+
+#####################################################
+#### Binding energy of layered system (meV/atom) ####
+#####################################################
+At DFT level       : 12.181696983871946
+At vdW-WanMBD level: -60.809260246416
+
+#####################################################
+######################## END ########################
+################# Duration: 0:46:15 #################
+#####################################################
