@@ -44,15 +44,15 @@ To compute the van der Waals and/or induction energies in materials, the followi
 		
 - In this folder, provide the following information into the input file 'input.in':
   
-    name of the investigating system: seedname = ...                      Example: seedname = MoS2
+     name of the investigating system: seedname = ...                      Example: seedname = MoS2
   
-	numbers of Wannier functions for each type of atoms: N_WF_at = ...    Example: N_WF_at = 5 4 for the case of MoS2 (5 Wannier functions for Mo and 4 Wannier Functions for S)
+     numbers of Wannier functions for each type of atoms: N_WF_at = ...    Example: N_WF_at = 5 4 for the case of MoS2 (5 Wannier functions for Mo and 4 Wannier Functions for S)
 
-	gamma, the parameter in damping function (Eq. 10): gM = ...           Example: gM = 1 or gM = 1.31 in this study
+     gamma, the parameter in damping function (Eq. 10): gM = ...           Example: gM = 1 or gM = 1.31 in this study
 
-	for polar systems, such as hBN, MoS2: pol = 1. For non-polar systems, such as graphite: pol = 0.
+     for polar systems, such as hBN, MoS2: pol = 1. For non-polar systems, such as graphite: pol = 0.
   
-	if calculating the binding energy: mono = 1. Otherwise: mono = 0
+     if calculating the binding energy: mono = 1. Otherwise: mono = 0
 	
 - Execute: python vdW-WanMBD.py > output.out
 
