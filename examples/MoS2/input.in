@@ -1,0 +1,5 @@
+seedname = MoS2                   # name of system   
+N_WF_at = 5 4                     # numbers of WFs of types of atom
+gM = 1.31                         # gamma
+pol = 1                           # '1' for polarized system, '0' for non-polarized system
+mono = 1                          # '1' for calculating binding energy, '0' for calculating dispersion energy
