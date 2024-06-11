@@ -60,11 +60,11 @@ To compute the van der Waals and/or induction energies in materials, the followi
   
 	the name of investigated system
 
-        lattice constant along c axis in Å unit
+  lattice constant along c axis in Å unit
   
-        interlayer distance in Å unit
+  interlayer distance in Å unit
       
-        unit cell volume in Å^3 unit
+  unit cell volume in Å^3 unit
   
 	vdW energy in eV unit
 
