@@ -4,7 +4,7 @@ A Python code for calculating van der Waals and induction energies in materials 
 
 This code is provided for the paper: "Dissecting van der Waals interactions with Density Functional Theory - Wannier-basis approach". 
 
-                                     https://arxiv.org/abs/...
+                                     https://www.sciencedirect.com/science/article/pii/S0010465525000281
 
 Authors: Diem Thi-Xuan Dang, Dai-Nam Le, and Lilia Woods.
 
@@ -87,7 +87,7 @@ Dispersion and binding energies are included for three representative materials.
     
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-For assistance with running please email Diem Thi-Xuan Dang at dangt1@usf.edu or xuandiemdang@gmai.com (personal).
+For assistance with running please email Diem Thi-Xuan Dang at dangt1@usf.edu.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
