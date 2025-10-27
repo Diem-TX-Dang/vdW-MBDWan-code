@@ -1,4 +1,4 @@
-# vdW-MBDWan-code
+# vdW-WanMBD-code
 A Python code for calculating van der Waals and induction energies in materials using Wannier Functions
 ----------------------------------------------------------------------------------------------------------------------------------
 
